@@ -10,3 +10,5 @@ Solutions of Practice questions from Hackerrank in Golang.
 ## Algorithms
 
 ### Implementation
+
+Picking Numbers                                                                [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/picking-numbers.go)
