@@ -13,7 +13,7 @@ Solutions of Practice questions from Hackerrank in Golang.
 1. Day 0 [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-0.go)       
 2. Day 1 [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-1.go)    
 3. Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
-4. Day 4 [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-3.go)
+4. Day 3 [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-3.go)
 
 ### Implementation
 
@@ -36,3 +36,4 @@ Solutions of Practice questions from Hackerrank in Golang.
 17. Climbing the Leaderboard [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/climbing-the-leaderboard.go)
 18. The Hurdle Race [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/the-hurdle-race.go)
 19. Designer PDF Viewer [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/designer-pdf-viewer.go)
+20. Utopian Tree [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/utopian-tree.go)
