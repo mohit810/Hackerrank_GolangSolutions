@@ -10,9 +10,10 @@ Solutions of Practice questions from Hackerrank in Golang.
 ## Algorithms
 
 ### 30 Days of Coding
-1.Day 0 [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-0.go)
-1.Day 1 [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-1.go)
-1.Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
+1. Day 0 [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-0.go)       
+2. Day 1 [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-1.go)    
+3. Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
+4. Day 4 [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-3.go)
 
 ### Implementation
 
@@ -34,3 +35,4 @@ Solutions of Practice questions from Hackerrank in Golang.
 16. Picking Numbers [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/picking-numbers.go)
 17. Climbing the Leaderboard [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/climbing-the-leaderboard.go)
 18. The Hurdle Race [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/the-hurdle-race.go)
+19. Designer PDF Viewer [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/designer-pdf-viewer.go)
