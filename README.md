@@ -9,6 +9,11 @@ Solutions of Practice questions from Hackerrank in Golang.
 
 ## Algorithms
 
+### 30 Days of Coding
+1.Day 0 [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-0.go)
+1.Day 1 [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-1.go)
+1.Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
+
 ### Implementation
 
 1. Apple and Oranges [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/apple-and-orange.go)
@@ -27,4 +32,5 @@ Solutions of Practice questions from Hackerrank in Golang.
 14. Cats and a Mouse [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/cats-and-mouse.go)
 15. Forming a Magic Square [Problem](https://www.hackerrank.com/challenges/magic-square-forming/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/forming-a-magic-square.go)
 16. Picking Numbers [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/picking-numbers.go)
-17. Climbing the Leaderboard [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
+17. Climbing the Leaderboard [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/climbing-the-leaderboard.go)
+18. The Hurdle Race [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/the-hurdle-race.go)
