@@ -14,6 +14,7 @@ Solutions of Practice questions from Hackerrank in Golang.
 2. Day 1 [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-1.go)    
 3. Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
 4. Day 3 [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-3.go)
+5. Day 4 [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-4.go)
 
 ### Implementation
 
@@ -39,3 +40,4 @@ Solutions of Practice questions from Hackerrank in Golang.
 20. Utopian Tree [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/utopian-tree.go)
 21. Angry Professor [Problem](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/angry-professor.go)
 22. Beautiful Days at the Movies [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/beautiful-days-at-the-movies.go)
+23. Viral Advertising [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/viral-advertising.go)  

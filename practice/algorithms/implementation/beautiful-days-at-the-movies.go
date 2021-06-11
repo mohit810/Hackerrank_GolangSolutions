@@ -34,19 +34,19 @@ func splitToDigits(n int32) int32 {
 	return res
 }
 
-func beautifulDays(i int32, j int32, k int32) int {
+func beautifulDays(i int32, j int32, k int32) int32 {
 	var remainder float64
 	temp := i
-	var days []int32
+	var days int32
 	for temp <= j {
-		hep := splitToDigits(temp)
-		remainder = math.Abs(float64(temp-hep)) / float64(k)
+		reverseDay := splitToDigits(temp)
+		remainder = math.Abs(float64(temp-reverseDay)) / float64(k)
 		if remainder == math.Trunc(remainder) {
-			days = append(days, 1)
+			days++
 		}
 		temp++
 	}
-	return len(days)
+	return days
 }
 
 func main() {
