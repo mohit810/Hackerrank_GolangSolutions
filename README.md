@@ -15,6 +15,7 @@ Solutions of Practice questions from Hackerrank in Golang.
 3. Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
 4. Day 3 [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-3.go)
 5. Day 4 [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-4.go)
+6. Day 5 [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-5.go)
 
 ### Implementation
 
@@ -43,3 +44,4 @@ Solutions of Practice questions from Hackerrank in Golang.
 23. Viral Advertising [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/viral-advertising.go)
 24. Save The Prisoner [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/save-the-prisoner.go)
 25. Circular Array Rotation [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/circular-array-rotation.go)
+26. Sequence Equation [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/permutation-equation.go)
