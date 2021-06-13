@@ -50,3 +50,6 @@ Solutions of Practice questions from Hackerrank in Golang.
 29. Extra Long Factorials [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/extra-long-factorials.go)
 30. Append and Delete [Problem](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/append-and-delete.go)
 31. Sherlock and Squares [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/sherlock-and-squares.go)
+32. Library Fine [Problem](https://www.hackerrank.com/challenges/library-fine/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/library-fine.go)
+33. Cut the sticks [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/cut-the-sticks.go)
+34. 
