@@ -10,12 +10,13 @@ Solutions of Practice questions from Hackerrank in Golang.
 ## Algorithms
 
 ### 30 Days of Coding
-1. Day 0 [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-0.go)       
-2. Day 1 [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-1.go)    
-3. Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
-4. Day 3 [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-3.go)
-5. Day 4 [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-4.go)
-6. Day 5 [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-5.go)
+0. Day 0 [Problem](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-0.go)       
+1. Day 1 [Problem](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-1.go)    
+2. Day 2 [Problem](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-2.go)
+3. Day 3 [Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-3.go)
+4. Day 4 [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-4.go)
+5. Day 5 [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-5.go)
+6. Day 6 [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-6.go)
 
 ### Implementation
 
@@ -52,4 +53,4 @@ Solutions of Practice questions from Hackerrank in Golang.
 31. Sherlock and Squares [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/sherlock-and-squares.go)
 32. Library Fine [Problem](https://www.hackerrank.com/challenges/library-fine/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/library-fine.go)
 33. Cut the sticks [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/cut-the-sticks.go)
-34. 
+34. Non-Divisible Subset [Problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/non-divisible-subset.go)
