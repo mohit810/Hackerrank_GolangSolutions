@@ -18,6 +18,7 @@ Solutions of Practice questions from Hackerrank in Golang.
 5. Day 5 [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-5.go)
 6. Day 6 [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-6.go)
 7. Day 7 [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-7.go)
+8. Day 8 [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Golang Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-8.go) | [JS Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-8.js) (GoLang Solution exceeds the time limit)
 
 ### Implementation
 
@@ -58,4 +59,4 @@ Solutions of Practice questions from Hackerrank in Golang.
 35. Jumping on the Clouds [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/jumping-on-the-clouds.go)
 36. Equalize the Array [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/equality-in-a-array.go)
 37. Queen's Attack II [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/queens-attack-2.go)
-38. 
+38. ACM ICPC Team [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem?) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/queens-attack-2.go)
