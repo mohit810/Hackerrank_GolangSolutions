@@ -9,36 +9,32 @@ import (
 	"strings"
 )
 
-func jumpingOnClouds(c []int32) (count int32) {
-	for len(c) > 0 {
-		jump := 0
-		for i := 0; i < len(c); i++ {
-			if len(c) >= 3 {
-				if c[i+1] == 0 && c[i+2] == 1 {
-					jump = 1
-					count++
-					break
-				} else if c[i+1] == 1 && c[i+2] == 0 {
-					jump = 2
-					count++
-					break
-				} else if c[i+1] == 0 && c[i+2] == 0 {
-					jump = 2
-					count++
-					break
-				}
-			} else if len(c) >= 2 {
-				jump = 1
-				count++
-				break
-			} else {
-				jump = 1
-				break
-			}
+func equalizeArray(arr []int32) int32 {
+	mapper := make(map[int32]int32)
+	for _, value := range arr {
+		_, v := mapper[value]
+		if !v {
+			mapper[value] = 1
+		} else {
+			mapper[value] += 1
 		}
-		c = c[jump:]
 	}
-	return
+	var max int32 = 0
+	var keyy int32 = 0
+	var count int32 = 0
+	for key, value := range mapper {
+		count += value
+		if max < value {
+			keyy = key
+			max = value
+		}
+	}
+	for key, value := range mapper {
+		if keyy == key {
+			count -= value
+		}
+	}
+	return count
 }
 
 func main() {
@@ -55,18 +51,18 @@ func main() {
 	checkError(err)
 	n := int32(nTemp)
 
-	cTemp := strings.Split(strings.TrimSpace(readLine(reader)), " ")
+	arrTemp := strings.Split(strings.TrimSpace(readLine(reader)), " ")
 
-	var c []int32
+	var arr []int32
 
 	for i := 0; i < int(n); i++ {
-		cItemTemp, err := strconv.ParseInt(cTemp[i], 10, 64)
+		arrItemTemp, err := strconv.ParseInt(arrTemp[i], 10, 64)
 		checkError(err)
-		cItem := int32(cItemTemp)
-		c = append(c, cItem)
+		arrItem := int32(arrItemTemp)
+		arr = append(arr, arrItem)
 	}
 
-	result := jumpingOnClouds(c)
+	result := equalizeArray(arr)
 
 	fmt.Fprintf(writer, "%d\n", result)
 

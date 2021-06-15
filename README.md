@@ -17,6 +17,7 @@ Solutions of Practice questions from Hackerrank in Golang.
 4. Day 4 [Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-4.go)
 5. Day 5 [Problem](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-5.go)
 6. Day 6 [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-6.go)
+7. Day 7 [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/30-Days-of-Coding/day-7.go)
 
 ### Implementation
 
@@ -46,7 +47,7 @@ Solutions of Practice questions from Hackerrank in Golang.
 24. Save The Prisoner [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/save-the-prisoner.go)
 25. Circular Array Rotation [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/circular-array-rotation.go)
 26. Sequence Equation [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/permutation-equation.go)
-27. Jumping on the clouds: Revisited [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/jumping-on-the-clouds.go)
+27. Jumping on the clouds: Revisited [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/jumping-on-the-clouds-revisited.go)
 28. Find Digits [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/find-digits.go)
 29. Extra Long Factorials [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/extra-long-factorials.go)
 30. Append and Delete [Problem](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/append-and-delete.go)
@@ -54,3 +55,7 @@ Solutions of Practice questions from Hackerrank in Golang.
 32. Library Fine [Problem](https://www.hackerrank.com/challenges/library-fine/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/library-fine.go)
 33. Cut the sticks [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/cut-the-sticks.go)
 34. Non-Divisible Subset [Problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/non-divisible-subset.go)
+35. Jumping on the Clouds [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/jumping-on-the-clouds.go)
+36. Equalize the Array [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/equality-in-a-array.go)
+37. Queen's Attack II [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem) | [Solution](https://github.com/mohit810/hackerrank-golang-solutions/blob/master/practice/algorithms/implementation/queens-attack-2.go)
+38. 
