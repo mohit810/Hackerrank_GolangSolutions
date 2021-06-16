@@ -74,9 +74,9 @@
 35. Jumping on the Clouds [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/algorithms/implementation/jumping-on-the-clouds.go)
 36. Equalize the Array [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/algorithms/implementation/equality-in-a-array.go)
 37. Queen's Attack II [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/algorithms/implementation/queens-attack-2.go)
-38. ACM ICPC Team [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem?) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/algorithms/implementation/queens-attack-2.go)
+38. ACM ICPC Team [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/algorithms/implementation/acm-icpc-team.go)
 39. Taum and B'day [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem) |[Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/algorithms/implementation/taum-and-bday.go)
-40.
+40. Modified Kaprekar Numbers [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) |[Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/algorithms/implementation/kaprekar-numbers.go)
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
