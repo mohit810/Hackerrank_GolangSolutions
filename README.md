@@ -34,6 +34,7 @@
 6. Day 6 [Problem](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/30-Days-of-Coding/day-6.go)
 7. Day 7 [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/30-Days-of-Coding/day-7.go)
 8. Day 8 [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Golang Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/30-Days-of-Coding/day-8.go) | [JS Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/30-Days-of-Coding/day-8.js)
+9. Day 9 [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/mohit810/Hackerrank_GolangSolutions/blob/master/practice/30-Days-of-Coding/day-9.go)
 
 ### Implementation
 
