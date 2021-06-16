@@ -1,28 +1,32 @@
 package main
 
-import "fmt"
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
 
 func main() {
 	var n int
-	mapper := make(map[string]int)
-	fmt.Scan(&n)
-	var name string
-	var phoneNumber int
+	var personName, phoneNumber string
+
+	phoneBook := make(map[string]string)
+
+	scanner := bufio.NewScanner(os.Stdin)
+
+	fmt.Scanln(&n)
 	for i := 0; i < n; i++ {
-		fmt.Scan(&name)
-		fmt.Scan(&phoneNumber)
-		mapper[name] = phoneNumber
+		fmt.Scanf("%s %s", &personName, &phoneNumber)
+		phoneBook[personName] = phoneNumber
 	}
-	var searchItem string
-	for {
-		_, err := fmt.Scanf("%s", &searchItem)
-		if err != nil {
-			break
-		}
-		if value, ok := mapper[searchItem]; ok {
-			fmt.Printf("%s=%d\n", searchItem, value)
+
+	for scanner.Scan() {
+		name := scanner.Text()
+		value, answer := phoneBook[name]
+		if answer == true {
+			fmt.Printf("%s=%s\n", name, value)
 		} else {
-			fmt.Println("Not found")
+			fmt.Printf("Not found\n")
 		}
 	}
 }
