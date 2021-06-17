@@ -36,6 +36,10 @@
    1. Conditional Statements: If-Else [Problem](https://www.hackerrank.com/challenges/js10-if-else/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:if-else.js)
    2. Conditional Statements: Switch [Problem](https://www.hackerrank.com/challenges/js10-switch/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:switch.js)
    3. Loops [Problem](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:loop.js)
+3. Day 3 :
+   1. Arrays [Problem](https://www.hackerrank.com/challenges/js10-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-3:arrays.js)
+   2. Try, Catch, and Finally [Problem](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day3:try-catch-and-finally.js)
+   3. Throw [Problem](https://www.hackerrank.com/challenges/js10-throw/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-3:throw.js)
 
 ### 30 Days of Coding
 
@@ -49,7 +53,7 @@
 7. Day 7 [Problem](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-7.go)
 8. Day 8 [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Golang Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-8.go) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/30-Days-of-Coding/day-8.js)
 9. Day 9 [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-9.go)
-
+10. Day 10 [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-10.go)
 
 ## Algorithms
 
