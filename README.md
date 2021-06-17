@@ -40,6 +40,14 @@
    1. Arrays [Problem](https://www.hackerrank.com/challenges/js10-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-3:arrays.js)
    2. Try, Catch, and Finally [Problem](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day3:try-catch-and-finally.js)
    3. Throw [Problem](https://www.hackerrank.com/challenges/js10-throw/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-3:throw.js)
+4. Day 4 :
+   1. Create a Rectangle Object [Problem](https://www.hackerrank.com/challenges/js10-objects/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-4:rect-object.js)
+   2. Count Objects [Problem](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-4:count-objects.js)
+   3. Classes [Problem](https://www.hackerrank.com/challenges/js10-class/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-4:class.js)
+5. Day 5 :
+   1. Inheritance [Problem](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:inheritance.js)
+   2. Template Literals [Problem](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:template-literals.js)
+   3. Arrow Functions [Problem](https://www.hackerrank.com/challenges/js10-arrows/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:arrow-func.js)
 
 ### 30 Days of Coding
 
