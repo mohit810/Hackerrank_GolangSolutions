@@ -29,13 +29,13 @@
    1. Hello World! [Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-0:hello-world.js)
    2. Data Types [Problem](https://www.hackerrank.com/challenges/js10-data-types/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-0:data-types.js)
 1. Day 1 :
-    1. Arithmetic Operators
-    2. Functions 
-    3. Let and Const
+    1. Arithmetic Operators [Problem](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-1:arithmetic-operators.js)
+    2. Functions [Problem](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-1:function.js)
+    3. Let and Const [Problem](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-1:let-and-const.js)
 2. Day 2 : 
-   1. Conditional Statements: If-Else 
-   2. Conditional Statements: Switch
-   3. Loops   [Problem](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:loop.js)
+   1. Conditional Statements: If-Else [Problem](https://www.hackerrank.com/challenges/js10-if-else/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:if-else.js)
+   2. Conditional Statements: Switch [Problem](https://www.hackerrank.com/challenges/js10-switch/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:switch.js)
+   3. Loops [Problem](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:loop.js)
 
 ### 30 Days of Coding
 
