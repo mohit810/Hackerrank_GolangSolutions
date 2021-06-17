@@ -99,6 +99,10 @@
 38. ACM ICPC Team [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/acm-icpc-team.go)
 39. Taum and B'day [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem) |[Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/taum-and-bday.go)
 40. Modified Kaprekar Numbers [Problem](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) |[Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/kaprekar-numbers.go)
+41. Beautiful Triplets [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/beautiful-triplets.go)
+42. Minimum Distances [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/minimum-distances.go)
+43. Halloween Sale [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/halloween-sale.go)
+
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
