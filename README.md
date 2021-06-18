@@ -48,6 +48,9 @@
    1. Inheritance [Problem](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:inheritance.js)
    2. Template Literals [Problem](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:template-literals.js)
    3. Arrow Functions [Problem](https://www.hackerrank.com/challenges/js10-arrows/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:arrow-func.js)
+6. Day 6 :
+   1. Bitwise Operator [Problem](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-6:bitwise.js)
+   2. JavaScript Dates [Problem](https://www.hackerrank.com/challenges/js10-date/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-6:date.js)
 
 ### 30 Days of Coding
 
@@ -62,7 +65,7 @@
 8. Day 8 [Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Golang Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-8.go) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/30-Days-of-Coding/day-8.js)
 9. Day 9 [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-9.go)
 10. Day 10 [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-10.go)
-
+11. Day 11 [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-11.go)
 ## Algorithms
 
 ### Implementation
