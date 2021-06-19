@@ -25,32 +25,39 @@
 
 ### 10 Days of Javascript
 
-0. Day 0 :
+1. Day 0 :
    1. Hello World! [Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-0:hello-world.js)
    2. Data Types [Problem](https://www.hackerrank.com/challenges/js10-data-types/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-0:data-types.js)
-1. Day 1 :
+2. Day 1 :
     1. Arithmetic Operators [Problem](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-1:arithmetic-operators.js)
     2. Functions [Problem](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-1:function.js)
     3. Let and Const [Problem](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-1:let-and-const.js)
-2. Day 2 : 
+3. Day 2 : 
    1. Conditional Statements: If-Else [Problem](https://www.hackerrank.com/challenges/js10-if-else/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:if-else.js)
    2. Conditional Statements: Switch [Problem](https://www.hackerrank.com/challenges/js10-switch/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:switch.js)
    3. Loops [Problem](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-2:loop.js)
-3. Day 3 :
+4. Day 3 :
    1. Arrays [Problem](https://www.hackerrank.com/challenges/js10-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-3:arrays.js)
    2. Try, Catch, and Finally [Problem](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day3:try-catch-and-finally.js)
    3. Throw [Problem](https://www.hackerrank.com/challenges/js10-throw/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-3:throw.js)
-4. Day 4 :
+5. Day 4 :
    1. Create a Rectangle Object [Problem](https://www.hackerrank.com/challenges/js10-objects/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-4:rect-object.js)
    2. Count Objects [Problem](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-4:count-objects.js)
    3. Classes [Problem](https://www.hackerrank.com/challenges/js10-class/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-4:class.js)
-5. Day 5 :
+6. Day 5 :
    1. Inheritance [Problem](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:inheritance.js)
    2. Template Literals [Problem](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:template-literals.js)
    3. Arrow Functions [Problem](https://www.hackerrank.com/challenges/js10-arrows/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-5:arrow-func.js)
-6. Day 6 :
+7. Day 6 :
    1. Bitwise Operator [Problem](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-6:bitwise.js)
    2. JavaScript Dates [Problem](https://www.hackerrank.com/challenges/js10-date/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-6:date.js)
+8. Day 7 :
+   1. Regular Expressions I [Problem](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/dau-7:regexp-1.js)
+   2. Regular Expressions II [Problem](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-7:regexp-2.js)
+   3. Regular Expressions III [Problem](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/day-7:regexp-3.js)
+9. Day 8 :
+   1. Create a Button [Problem](https://www.hackerrank.com/challenges/js10-create-a-button/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/10-Days-of-Javascript/Day%208/Create%20a%20Button)
+   
 
 ### 30 Days of Coding
 
