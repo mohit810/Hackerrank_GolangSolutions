@@ -77,7 +77,7 @@
 11. Day 11 [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-11.go)
 12. Day 12 [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-12.js) | ( Compiler didn't gave GoLang coding option )
 13. Day 13 [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-13.js) | ( Compiler didn't gave GoLang coding option )
-
+14. Day 14 [Problem](https://www.hackerrank.com/challenges/30-scope/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-14.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
 
 ## Algorithms
 
@@ -126,7 +126,7 @@
 41. Beautiful Triplets [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/beautiful-triplets.go)
 42. Minimum Distances [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/minimum-distances.go)
 43. Halloween Sale [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/halloween-sale.go)
-
+44. Chocolate Feast [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/chocolate-feast.go)
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
