@@ -75,6 +75,10 @@
 9. Day 9 [Problem](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-9.go)
 10. Day 10 [Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-10.go)
 11. Day 11 [Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-11.go)
+12. Day 12 [Problem](https://www.hackerrank.com/challenges/30-inheritance/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-12.js) | ( Compiler didn't gave GoLang coding option )
+13. Day 13 [Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-13.js) | ( Compiler didn't gave GoLang coding option )
+
+
 ## Algorithms
 
 ### Implementation
