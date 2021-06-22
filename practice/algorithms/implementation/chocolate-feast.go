@@ -4,15 +4,24 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"math"
 	"os"
 	"strconv"
 	"strings"
 )
 
 func chocolateFeast(n int32, c int32, m int32) int32 {
-	chocolates := int32(math.Floor(float64(n) / float64(c)))
-	return chocolates + int32(math.Floor(float64(chocolates-1)/float64(m-1)))
+	//chocolates := int32(math.Floor(float64(n) / float64(c)))
+	//return chocolates + int32(math.Floor(float64(chocolates-1)/float64(m-1)))
+	choco := n / c
+	eat := int32(0)
+	wp := int32(0)
+	for choco > 0 { //add until chocolate=0
+		eat += choco
+		wp += choco    //counting no. of chocolates as wrappers
+		choco = wp / m //No. of wrappers turned
+		wp = wp % m    //left wrappers
+	}
+	return eat
 }
 
 func main() {

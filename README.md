@@ -127,6 +127,7 @@
 42. Minimum Distances [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/minimum-distances.go)
 43. Halloween Sale [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/halloween-sale.go)
 44. Chocolate Feast [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/chocolate-feast.go)
+45. Service Lane [Problem](ttps://www.hackerrank.com/challenges/service-lane/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/service-lane.go)
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
