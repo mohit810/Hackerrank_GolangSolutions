@@ -130,7 +130,10 @@
 43. Halloween Sale [Problem](https://www.hackerrank.com/challenges/halloween-sale/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/halloween-sale.go)
 44. Chocolate Feast [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/chocolate-feast.go)
 45. Service Lane [Problem](https://www.hackerrank.com/challenges/service-lane/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/service-lane.go)
-46. Service Lane [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/lisa-workbook.go)
+46. Lisa's Workbook [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/lisa-workbook.go)
+47. Flatland Space Stations [Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/flatland-space-stations.go)
+48. Fair Rations [Problem](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/fair-rations.go)
+
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
