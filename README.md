@@ -80,6 +80,8 @@
 14. Day 14 [Problem](https://www.hackerrank.com/challenges/30-scope/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-14.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
 15. Day 15 [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-15.js) | ( Compiler didn't gave GoLang coding option )
 16. Day 16 [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-16.js) | ( Compiler didn't gave GoLang coding option )
+17. Day 17 [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-16.js) | ( Compiler didn't gave GoLang coding option )
+
 
 ## Algorithms
 
@@ -133,7 +135,7 @@
 46. Lisa's Workbook [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/lisa-workbook.go)
 47. Flatland Space Stations [Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/flatland-space-stations.go)
 48. Fair Rations [Problem](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/fair-rations.go)
-
+49. Cavity Map [Problem](https://www.hackerrank.com/challenges/cavity-map/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/cavity-map.go)
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
