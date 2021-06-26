@@ -80,8 +80,9 @@
 14. Day 14 [Problem](https://www.hackerrank.com/challenges/30-scope/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-14.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
 15. Day 15 [Problem](https://www.hackerrank.com/challenges/30-linked-list/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-15.js) | ( Compiler didn't gave GoLang coding option )
 16. Day 16 [Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-16.js) | ( Compiler didn't gave GoLang coding option )
-17. Day 17 [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-16.js) | ( Compiler didn't gave GoLang coding option )
-
+17. Day 17 [Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-17.js) | ( Compiler didn't gave GoLang coding option )
+18. Day 18 [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-18.js) | ( Compiler didn't gave GoLang coding option )
+19. Day 19 [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-19.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
 
 ## Algorithms
 
