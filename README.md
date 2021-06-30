@@ -84,7 +84,9 @@
 19. Day 18 [Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-18.js) | ( Compiler didn't gave GoLang coding option )
 20. Day 19 [Problem](https://www.hackerrank.com/challenges/30-interfaces/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-19.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
 21. Day 20 [Problem](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-20.go)
-22. Day 21 [Problem](https://www.hackerrank.com/challenges/30-generics/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-20.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
+22. Day 21 [Problem](https://www.hackerrank.com/challenges/30-generics/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-21.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
+23. Day 22 [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-22.js) | ( Compiler didn't gave GoLang coding option )
+24. Day 23 [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-23.js) | ( Compiler didn't gave GoLang coding option )
 
 ## Algorithms
 
