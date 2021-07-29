@@ -88,8 +88,10 @@
 23. Day 22 [Problem](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-22.js) | ( Compiler didn't gave GoLang coding option )
 24. Day 23 [Problem](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-23.js) | ( Compiler didn't gave GoLang coding option )
 25. Day 24 [Problem](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-24.js) | ( Compiler didn't gave GoLang coding option )
-26. Day 25 [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-25.go)
-27. Day 26 [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [JS Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-26.go)
+26. Day 25 [Problem](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-25.go)
+27. Day 26 [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-26.go)
+28. Day 27 [Problem](https://www.hackerrank.com/challenges/30-testing/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-27.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
+29. Day 28 [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-28.go)
 
 
 ## Algorithms
