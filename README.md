@@ -92,7 +92,7 @@
 27. Day 26 [Problem](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-26.go)
 28. Day 27 [Problem](https://www.hackerrank.com/challenges/30-testing/problem) | [JAVA 8 Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-27.java) | ( Compiler didn't gave GoLang, JavaScript coding option )
 29. Day 28 [Problem](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-28.go)
-
+30. Day 29 [Problem](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/tutorials/30-Days-of-Coding/day-29.go)
 
 ## Algorithms
 
@@ -147,6 +147,13 @@
 47. Flatland Space Stations [Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/flatland-space-stations.go)
 48. Fair Rations [Problem](https://www.hackerrank.com/challenges/fair-rations/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/fair-rations.go)
 49. Cavity Map [Problem](https://www.hackerrank.com/challenges/cavity-map/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/implementation/cavity-map.go)
+
+
+### Strings
+1. Super Reduced String [Problem](https://www.hackerrank.com/challenges/reduced-string/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/reduced-string.go)
+2. CamelCase [Problem](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/camelcase.go)
+3. Strong Password [Problem](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/strong-password.go)
+
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
