@@ -155,6 +155,10 @@
 3. Strong Password [Problem](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/strong-password.go)
 4. Caesar Cipher [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/caesar-cipher-1.go)
 5. Mars Exploration [Problem](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/mars-exploration.go)
+6. HackerRank in a String! [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/hackerrank-in-a-string.go)
+7. Pangrams [Problem](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/pangrams.go)
+8. Weighted Uniform Strings [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/weighted-uniform-string.go)
+9. Funny String  [Problem](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/funny-string.go)
 
 
 
