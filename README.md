@@ -159,7 +159,7 @@
 7. Pangrams [Problem](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/pangrams.go)
 8. Weighted Uniform Strings [Problem](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/weighted-uniform-string.go)
 9. Funny String  [Problem](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/funny-string.go)
-
+10. Gemstones [Problem](https://www.hackerrank.com/challenges/gem-stones/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/gem-stones.go)
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
