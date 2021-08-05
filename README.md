@@ -162,6 +162,7 @@
 10. Gemstones [Problem](https://www.hackerrank.com/challenges/gem-stones/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/gem-stones.go)
 11. Alternating Characters [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/alternating-characters.go)
 12. Beautiful Binary String [Problem](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/beautiful-binary-string.go)
+13. The Love-Letter Mystery [Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/the-love-letter-mystery.go)
 
 
 
