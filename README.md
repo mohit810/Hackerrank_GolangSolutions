@@ -166,11 +166,16 @@
 14. Determining DNA Health [Problem](https://www.hackerrank.com/challenges/determining-dna-health/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/strings/determining-dna-health.go)
 
 
-### Implementation
+### Sorting
 1. Big Sorting [Problem](https://www.hackerrank.com/challenges/big-sorting/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/sorting/big-sorting.go)
 2. Intro to Tutorial Challenges [Problem](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/sorting/tutorial-intro.go)
 3. Insertion Sort - Part 1 [Problem](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/sorting/insertionsort1.go)
 4. Insertion Sort - Part 2 [Problem](https://www.hackerrank.com/challenges/insertionsort2/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/sorting/insertionsort2.go)
+
+
+### Data Structures (Basic types)
+1. Arrays-DS [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/data-structures/arrays-ds.go)
+
 
 
 [maintenance-shield]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
