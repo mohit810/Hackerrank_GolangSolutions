@@ -174,7 +174,13 @@
 
 
 ### Data Structures (Basic types)
+#### Array
 1. Arrays-DS [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/data-structures/arrays-ds.go)
+2. 2D Array - DS [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/data-structures/2d-arrays-ds.go)
+3. Sparse Arrays [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/data-structures/sparse-arrays.go)
+
+#### Linked Lists
+1. Print the Elements of a Linked List [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](https://github.com/mohit810/Hackerrank_Solutions/blob/master/practice/algorithms/data-structures/print-the-elements-of-a-linked-list.go)
 
 
 
